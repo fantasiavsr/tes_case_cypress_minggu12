@@ -2,6 +2,8 @@
 
 Testing website greenvest: http://greenvestvsr.herokuapp.com/
 
+Testing documentation: https://github.com/fantasiavsr/tes_case_cypress_minggu12/blob/master/Tugas%20Kelompok%20PPL_Minggu%2011.xlsx
+
 Anggota:
 1. Afif Qomarul Ghulam (Absen 1/2041720176)
 2. Iqshan Bagus Prasetyo (Absen 11/2041720096)
