@@ -28,6 +28,7 @@ describe('profile', () => {
     cy.get('.img-profile').click()
     cy.get('.dropdown-menu > [href="http://greenvestvsr.herokuapp.com/profile"]').click()
     cy.get(':nth-child(2) > :nth-child(2) > .form-control').type('halo')
+    cy.get(':nth-child(10) > :nth-child(2) > .btn').click()
   })  
 })
 
