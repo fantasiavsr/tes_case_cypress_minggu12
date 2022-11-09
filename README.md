@@ -1,4 +1,6 @@
-# tes_case_cypress_minggu12
+# Test Case menggunakan Cypress
+
+Testing website greenvest: http://greenvestvsr.herokuapp.com/
 
 Anggota:
 1. Afif Qomarul Ghulam (Absen 1/2041720176)
